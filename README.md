@@ -37,7 +37,7 @@ To set up **SustainCycle** locally on your machine, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/sustaincycle.git
+    git clone https://github.com/sh1kh4/sustaincycle.git
     ```
 
 2. Navigate to the project directory:
