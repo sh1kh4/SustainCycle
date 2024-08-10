@@ -18,9 +18,9 @@ Waste management is a growing challenge, and traditional methods often lead to s
 
 ## Features
 
-- **Waste Identification**: Upload your waste information, and SustainCycle will identify the type and category of waste.
+- **Waste Identification**: Upload your waste information, and SustainCycle will keep a track of your inventory.
 - **Alternative Uses**: Get suggestions on alternative uses for your waste, tailored to your specific needs and location.
-- **Environmental Impact Reduction**: Contribute to reducing environmental impacts by following our eco-friendly suggestions.
+- **My activity**: Add new activities that combat climate change (keep track of your hours).
 - **User-Friendly Interface**: Easy-to-use platform with a straightforward process for waste management.
 - **Location-Based Suggestions**: Personalized recommendations based on your geographic location.
 
