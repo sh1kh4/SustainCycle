@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODO LIST</title>
+
+  <link rel="stylesheet" href="home.css" />
+</head>
+<body>
+  <header>
+    <header>
+      <nav class="navbar container flex">
+        <h2 class="logo"><a href="#">SustainCycle</a></h2>
+
+        <ul class="nav-links flex">
+          <li><a href="home.html">Home</a></li>
+          <li><a href="solutions.html">Solutions</a></li>
+          <li><a href="Myacitivity.html">My activity</a></li>
+          <li><a href="#Dashboard">Dashboard</a></li>
+          <li><a href="#About us">About us</a></li>
+          <li><a href="http://localhost:5173/">Login</a></li>
+        </ul>
+      </nav>
+     </header>
+  </header>
+  <div class="input">
+  <div class="container">
+    <h1>My acitviy</h1>
+    <div class="input-container">
+      <input class="todo-input" placeholder="Add a new acitvity...">
+      <button class="add-button">
+        <i class="fa fa-plus-circle"></i>
+      </button>
+    </div>
+    <div class="filters">
+      <div class="filter" data-filter="completed">Complete</div>
+      <div class="filter" data-filter="pending">Incomplete</div>
+      <div class="delete-all">Delete All</div>
+    </div>
+    <div class="todos-container">
+      <ul class="todos"></ul>
+      <img class="empty-image" src="./empty.svg">
+    </div>
+  </div>
+</div>
+  <script src="src/script.js"></script>
+</body>
+</html>
