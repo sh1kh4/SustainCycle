@@ -1,6 +1,6 @@
-# SystemCycle
+# SustainCycle
 
-SystemCycle is an innovative platform aimed at helping you repurpose waste with the goal of achieving a closed-loop waste management system inspired by nature’s efficiency. Our platform suggests alternative uses for your waste based on its type and your location, helping to reduce environmental impact and contribute to a more sustainable world.
+SustainCycle is an innovative platform aimed at helping you repurpose waste with the goal of achieving a closed-loop waste management system inspired by nature’s efficiency. Our platform suggests alternative uses for your waste based on its type and your location, helping to reduce environmental impact and contribute to a more sustainable world.
 
 ## Table of Contents
 
@@ -14,11 +14,11 @@ SystemCycle is an innovative platform aimed at helping you repurpose waste with 
 
 ## Introduction
 
-Waste management is a growing challenge, and traditional methods often lead to significant environmental harm. **SystemCycle** is designed to help you repurpose waste effectively, turning what might be discarded into something useful. By leveraging our program, you can contribute to a sustainable, closed-loop system where waste is minimized, and resources are reused in the most efficient ways.
+Waste management is a growing challenge, and traditional methods often lead to significant environmental harm. **SustainCycle** is designed to help you repurpose waste effectively, turning what might be discarded into something useful. By leveraging our program, you can contribute to a sustainable, closed-loop system where waste is minimized, and resources are reused in the most efficient ways.
 
 ## Features
 
-- **Waste Identification**: Upload your waste information, and SystemCycle will identify the type and category of waste.
+- **Waste Identification**: Upload your waste information, and SustainCycle will identify the type and category of waste.
 - **Alternative Uses**: Get suggestions on alternative uses for your waste, tailored to your specific needs and location.
 - **Environmental Impact Reduction**: Contribute to reducing environmental impacts by following our eco-friendly suggestions.
 - **User-Friendly Interface**: Easy-to-use platform with a straightforward process for waste management.
@@ -27,23 +27,23 @@ Waste management is a growing challenge, and traditional methods often lead to s
 ## How It Works
 
 1. **Upload Waste Information**: Users can upload details about the waste they want to repurpose, including type, material, and quantity.
-2. **Get Recommendations**: Based on the waste type and location, SystemCycle provides alternative uses or repurposing ideas.
+2. **Get Recommendations**: Based on the waste type and location, SustainCycle provides alternative uses or repurposing ideas.
 3. **Implement & Share**: Users can implement these suggestions and share their success stories, contributing to a larger community effort.
 
 ## Installation
 
-To set up **SystemCycle** locally on your machine, follow these steps:
+To set up **SustainCycle** locally on your machine, follow these steps:
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/systemcycle.git
+    git clone https://github.com/yourusername/sustaincycle.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd systemcycle
+    cd sustaincycle
     ```
 
 3. Install dependencies:
@@ -68,7 +68,7 @@ To set up **SystemCycle** locally on your machine, follow these steps:
 
 ## Contributing
 
-We welcome contributions to improve SystemCycle! If you would like to contribute, please follow these steps:
+We welcome contributions to improve SustainCycle! If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
@@ -85,4 +85,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for contributing to a sustainable future with **SystemCycle**!
+Thank you for contributing to a sustainable future with **SustainCycle**!
